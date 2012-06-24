@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ScanAppv2Activity!</string>
+    <string name="app_name">ScanAppv2</string>    
+    <string name="db_prompt">Choose a Database:</string>
+    
+      <string-array name="databases">
+          <item>Khetse</item>        
+          <item>Eurobanan</item>        
+          <item>FFTV</item>       
+          <item>CapeUK</item>        
+          <item>FGL</item>        
+          <item>TEST111</item>        
+          <item>Inter</item>        
+          <item>TPEdinburgh</item>
+          <item>Swords</item>  
+          <item>FBV</item>  
+          <item>CapeEU</item>
+          <item>TP UK</item>
+      </string-array>
+
+</resources>
